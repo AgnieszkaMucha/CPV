@@ -1,10 +1,14 @@
-## Welcome to CPV course web page
+# Welcome to CPV at AGH UST course web page!
 
 
 
-### Lectures
+## Lectures
+1. Introduction 
+2. Dirac Equation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tutorials
+
+## Projects 
 
 ```markdown
 Syntax highlighted code block
