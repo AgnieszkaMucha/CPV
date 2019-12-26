@@ -10,6 +10,7 @@
 
 ## Projects 
 
+![Image](/images/cpv.png)
 ```markdown
 Syntax highlighted code block
 
