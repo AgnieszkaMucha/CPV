@@ -1,4 +1,4 @@
-# Welcome to CPV at AGH UST course web page!
+# Welcome to CPV at AGH UST!
 
 
 
