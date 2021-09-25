@@ -10,10 +10,6 @@
 
 ## Projects 
 
-![Image](/images/2troj_exp.png)
-```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
