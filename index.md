@@ -1,9 +1,9 @@
-# Welcome to CPV at AGH UST!
+# Welcome to violation of CP symmetry at AGH UST!
 
 
 
 ## Lectures
-1. Introduction 
+1. Introduction: why do we need CP violation 
 2. Dirac Equation
 
 ## Tutorials
