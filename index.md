@@ -1,8 +1,8 @@
 # Welcome to violation of CP symmetry at AGH UST!
 
 ## Lectures
-1. Introduction: [why do we need CP violation](/FILES/Introduction_L1.pdf) 
-2. [Dirac Equation](/FILES/Dirac_equation_L2.pdf) 
+1. Introduction: why do we need CP violation [slides](/FILES/Introduction_L1.pdf) 
+2. Dirac Equation [slides](/FILES/Dirac_equation_L2.pdf) 
 
 ## Tutorials
 
