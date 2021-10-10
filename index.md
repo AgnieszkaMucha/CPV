@@ -6,6 +6,7 @@ This year (2021) I am going to mix lectures written in the real time on the blac
 2. Dirac Equation [slides](/FILES/Dirac_equation_L2.pdf) 
 
 ## Tutorials
+Dirac equation [assignments](/FILES/DE_tutorial.pdf)
 
 ## Projects 
 Observation of time-dependent CP asymmetry.
