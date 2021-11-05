@@ -2,8 +2,9 @@
 
 ## Lectures
 This year (2021) I am going to mix lectures written in the real time on the blackboard with the slides below. 
-1. Introduction: why do we need CP violation [slides](/FILES/Introduction_L1.pdf) 
-2. Dirac Equation [slides](/FILES/Dirac_equation_L2.pdf) 
+Introduction: why do we need CP violation [slides](/FILES/Introduction_L1.pdf) 
+Dirac Equation [slides](/FILES/Dirac_equation_L2.pdf) 
+Kaons story of CP violation [slides](/FILES/CPV_kaons_story.pdf) 
 
 ## Tutorials
 Dirac equation [assignments](FILES/CPV_tutorial_1.pdf)
