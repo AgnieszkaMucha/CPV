@@ -11,6 +11,7 @@ Dirac equation [assignments](FILES/CPV_tutorial_1.pdf)
 
 ## Projects 
 Observation of time-dependent CP asymmetry.
+Prof. Mark Thomson lecture "Particle Physics-the CKM Matrix and CP Violation" [here](/FILES/Handout_12_2011.pdf)
 ### Roofit simulation 
 
 ## Literature:
