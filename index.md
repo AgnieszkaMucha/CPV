@@ -8,10 +8,13 @@ This year (2021) I am going to mix lectures written in the real time on the blac
 
 ## Tutorials
 Dirac equation [assignments](FILES/CPV_tutorial_1.pdf)
+Kaons mixings [assignments](FILES/CPV_tutorial_2.pdf)
+CP violation in B meson [assignments](FILES/CPV_tutorial_3.pdf)
 
 ## Projects 
 1. Observation of the oscilation in the neutral kaon system. <br>
 Prof. Mark Thomson lecture "Particle Physics-the CKM Matrix and CP Violation" [here](/FILES/Handout_12_2011.pdf)
+
 ### Roofit simulation 
 
 ## Literature:
