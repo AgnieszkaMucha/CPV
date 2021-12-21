@@ -5,7 +5,10 @@ This year (2021) I am going to mix lectures written in the real time on the blac
 1. Introduction: why do we need CP violation [slides](/FILES/Introduction_L1.pdf) 
 2. Dirac Equation [slides](/FILES/Dirac_equation_L2.pdf) 
 3. Symmetries and current [slides](/FILES/cpv_symmetries_currents.pdf)
-4. Kaons story of CP violation [slides](/FILES/CPV_kaons_story.pdf) 
+4. Kaons story of CP violation [slides](/FILES/CPV_kaons_story.pdf)
+5. Heavy flavours' oscillations -3 types of CP violation [slides](/FILES/CPV_3Types.pdf) 
+6. CP Violation in the Standard Model [slides](/FILES/CPV_SM.pdf)
+ 
 
 ## Tutorials
 1. Dirac equation [assignments](FILES/CPV_tutorial_1.pdf)
@@ -13,8 +16,9 @@ This year (2021) I am going to mix lectures written in the real time on the blac
 3. CP violation in B meson [assignments](FILES/CPV_tutorial_3.pdf)
 
 ## Projects 
-1. Observation of the oscilation in the neutral kaon system. <br>
+1. Observation of the oscilation in the neutral kaon system [students' raport](/FILES/K0_oscillations.pdf). <br>
 Prof. Mark Thomson lecture "Particle Physics-the CKM Matrix and CP Violation" [here](/FILES/Handout_12_2011.pdf)
+2. Results on CP violation
 
 ### Roofit simulation 
 
