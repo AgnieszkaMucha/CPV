@@ -16,7 +16,7 @@ This year (2021) I am going to mix lectures written in the real time on the blac
 3. CP violation in B meson [assignments](FILES/CPV_tutorial_3.pdf)
 
 ## Projects 
-1. Observation of the oscilation in the neutral kaon system [students' raport](/FILES/K0_oscillations.pdf). <br>
+1. Observation of the oscilation in the neutral kaon system [students' report](/FILES/K0_oscillations.pdf). <br>
 Prof. Mark Thomson lecture "Particle Physics-the CKM Matrix and CP Violation" [here](/FILES/Handout_12_2011.pdf)
 2. Results on CP violation
 
