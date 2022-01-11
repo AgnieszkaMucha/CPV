@@ -7,8 +7,8 @@ This year (2021) I am going to mix lectures written in the real time on the blac
 3. Symmetries and current [slides](/FILES/cpv_symmetries_currents.pdf)
 4. Kaons story of CP violation [slides](/FILES/CPV_kaons_story.pdf)
 5. Heavy flavours' oscillations -3 types of CP violation [slides](/FILES/CPV_3Types.pdf) 
-6. CP Violation in the Standard Model [slides](/FILES/cpv_lect5.pdf)
-7. CKM matrix [slides](/FILES/CPV_experimnet_L6.pdf)
+6. CP Violation in the Standard Model [slides](/FILES/cpv_lec5.pdf)
+7. CKM matrix [slides](/FILES/CPV_experiment_L6.pdf)
  
 
 ## Tutorials
