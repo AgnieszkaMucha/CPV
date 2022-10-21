@@ -11,8 +11,8 @@ This year (2021) I am going to mix lectures written in the real time on the blac
 7. CKM matrix [slides](/FILES/CPV_experiment_L6.pdf)
  
 ## Fizyka na LHCb - kurs FT2:
-Wykład 1 [slides](/FILES/LHCb_Physics_1.pdf)
-Wykład 2 [slides](/FILES/LHCb_Physics_2.pdf)
+1. Wykład 1 [slides](/FILES/LHCb_Physics_1.pdf)
+2. Wykład 2 [slides](/FILES/LHCb_Physics_2.pdf)
 
 
 ## Tutorials
